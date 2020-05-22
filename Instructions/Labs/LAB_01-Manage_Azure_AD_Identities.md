@@ -47,7 +47,7 @@ In this task, you will create and configure Azure AD users.
 
     | Setting | Value |
     | --- | --- |
-    | User name | **az104-01a-aaduser1** |
+    | User name | **cloudbeaveruser1** |
     | Name | **az104-01a-aaduser1** |
     | Let me create the password | enabled |
     | Initial password | **Pa55w.rd124** |
